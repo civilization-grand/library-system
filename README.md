@@ -1,4 +1,5 @@
-# Library management system a very tiny system
+# Library management system 
+a very tiny system
 
 ## Books container 
 *This program uses a "Text file" as the conntainer of the books.
