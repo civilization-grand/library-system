@@ -1,7 +1,7 @@
-#Library management system
+# Library management system
 a very tiny system
 
-##Books container
+## Books container
 *This program uses a "Text file" as the conntainer of the books.
 *The books data in the text file are stored in the format:
           book_ID#book_name#book_author(s)#book_publisher
